@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.androidstatusbar_1.0_iphoneos-arm.deb
 Size: 13572
-MD5sum: 862c73bc541dd6558a3a0241186b3447
-SHA1: 87eaafca89f09c0e4a7dc65cdb998ab4c7f8919e
-SHA256: 2270e83cc5c314f30c523d4b6f74397d52a6e142d0e7a7b720862d7a15e757a8
+MD5sum: 018ec5a3fc8540a960d87274ff392659
+SHA1: 737ce90978a409fcb2bb992847a2f8770fe9e251
+SHA256: 5866967172d5a46f106140fbacefc2c9e20a86711bcdc19620fc832a1a3b9f87
 Section: Themes (System)
 Description: Android L Status Bar
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.betterphotosicon_1.0.6_iphoneos-arm.deb
 Size: 32934
-MD5sum: dfee49135fbd131e95cc16483d28d5e7
-SHA1: d247c6e60c315cca84abfa20121ec92903829ed2
-SHA256: 52962720bf4f698b45fde76e23867833b9dbded4b9aae10ae9cb8ab387db1634
+MD5sum: 2da5dcba8d38788d6ba979dd7aa77376
+SHA1: 08e6fff008f4f2c1b242228dab5379a91548b076
+SHA256: 77159c2ac14fd2530f0d20247609f036476a24b6c7fe576ed1d9d67f31c207b9
 Section: Themes (SpringBoard)
 Description: Nicer Photos.app icon
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -32,10 +32,10 @@ Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.compact_0.4_iphoneos-arm.deb
-Size: 111384
-MD5sum: d75a7c42f5c818d1513c8054ffad2795
-SHA1: b61f237f009f05e341f71bdfb866c04af1cd1d86
-SHA256: 653ff6dcd8727e2aa1d172a32b0e53d487a3f75e270d9025023237a9856c1e69
+Size: 111774
+MD5sum: 3e15a5f67c1be71efc54c72706759053
+SHA1: 9b32b0382b427c00b0f815374af34c1c515f66d6
+SHA256: 163fff01ce3bd3738c5b50c035240bfe41439818414fe8cab9bc821b34d3a09c
 Section: Themes (Complete)
 Description: Compact Icons
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -47,9 +47,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.iconodefault_1.0_iphoneos-arm.deb
 Size: 951022
-MD5sum: 93412789dfce79cac4066d607d78e692
-SHA1: e0b2e406fdfed34cd908e206e701d23ead0540ca
-SHA256: 1be61d54d912f46cd115e201791edcd25185f30b8fc8f80f2b3b82717c86cfcc
+MD5sum: fa8782743d10379a1f0d21a8ce44008b
+SHA1: a4d9ce01fe5e2da8b545933e17c64523fe370650
+SHA256: 08649f068c1d0a0a4cb7b1d0b2fa072869a74a08701d3f34926b90994ac4bc4b
 Section: Themes (SpringBoard)
 Description: Use IconOmatic themes in Anemone
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -61,23 +61,38 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.myalticons_1.0.1_iphoneos-arm.deb
 Size: 273708
-MD5sum: f9d30e43a873f4af905e821eaf8a81fa
-SHA1: 254959d20b07c7b25c697c8c840b80516139481e
-SHA256: 6ac65531dc667c87e9a938fb57d8f9fdbad3057ba2ed468c8e1d8c617485a3f2
+MD5sum: 9567422e4f2b729d8168b102bd8b5200
+SHA1: ef3623ec77e0707f311e3c42aa9185cfa34e5ce1
+SHA256: 854325f308fbf7c70718073cdaeaa0c485aa419243f453a9e8d0d37fbbe3b2de
 Section: Themes (Other)
 Description: Alternative icons for themes I have
 Author: Noah M (n0mar) <n0mar@icloud.com>
 Name: Alternative Icons
+
+Package: n0mar.nocal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Noah M <n0mar@icloud.com>
+Filename: ./debs//n0mar.nocal_1.0_iphoneos-arm.deb
+Size: 1540
+MD5sum: b85241bf7af12b1bd4748807eaf7e62a
+SHA1: 34d4139ffc021965b7d1af540828b5d242b91654
+SHA256: 137a1cca7e1c8a01dc3b0c2caaf1248816bce3b5deda1dae928e4f08834f7142
+Section: Themes (SpringBoard)
+Description: Hide's SpringBoard Calendar Day and Date
+Author: Noah M <n0mar@icloud.com>
+Depiction: https://n0mar.github.io/depic/nocal/index.html
+Name: Hide Calendar Information
 
 Package: n0mar.odin
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.odin_1.1.4_iphoneos-arm.deb
-Size: 836916
-MD5sum: ff47f544c03750898b39867db58a3a25
-SHA1: 5290372d854333db2b60104ed25577f72fd66c6d
-SHA256: 4dc846070693ff66b165531090502c4fb9545d86c516420a861657c0aa7d5024
+Size: 837620
+MD5sum: 774504b9f4080350fd8c3fd2e205a58c
+SHA1: cfec1ffbbb9cd476e1d83884654a14f124296692
+SHA256: 2582a54e8e89e4f3bf90c1b75a46df7d8fd7fbbb214bf9741e481070b89709bc
 Section: Themes (SpringBoard)
 Description: Odin for iOS 9
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -90,9 +105,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.rebeccatheme_0.1_iphoneos-arm.deb
 Size: 41642
-MD5sum: 6a3f1344d87c77388c6e2831741a3748
-SHA1: 623609ed43ddafa65d4878dd789946a8891587a7
-SHA256: 8a6a66de51877dafa67368be077e14a8e56e14e40ad740c50266b9a4172d00b5
+MD5sum: f8e39a03dcdb7bbd81cca86ce9740f5b
+SHA1: de261b86c10e50a4968daa9f7d0a9ad06f41eb3a
+SHA256: 34281c2fe455fd66f864a202c88e1fad7d5091a8b17cdc5dab1d92e10a42137a
 Section: Themes (SpringBoard)
 Description: Simple typography theme
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -104,9 +119,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.retrofla_0.0.2_iphoneos-arm.deb
 Size: 8082
-MD5sum: e4fba1148b28b83ff4d217bd127ea77f
-SHA1: a88bda52b1d3d2c04650c63b5e28224f8956e098
-SHA256: 51a22d0bcb6d360cdcea5fa08f420e3958dd584c424f03c6b2a21935c2e354bb
+MD5sum: a00e5a8516fae08982a7d50b7e38b048
+SHA1: 54108b9abf86a3604c0d94f9f5949fa5016a73ac
+SHA256: 5ad0692001936c0afd2efd45a448634885257ae5ca8ab3343f38c2f3987dd9d6
 Section: Themes (SpringBoard)
 Description: Super-fcuking minimal theme
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -118,9 +133,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.simplels_0.8_iphoneos-arm.deb
 Size: 1358
-MD5sum: 3bce12a6df1a8a7b467b03fa7aa2e216
-SHA1: eb1643bedf1d13d736d52ac8d109b9b67afdfc4b
-SHA256: 741fa738bae85fa11b16427803f88311bb0a1e377e2d533d1cc033eed6b0e607
+MD5sum: 0a3385f050563ed0ff732bc6e085a017
+SHA1: ad9555a06029b06cdade7da436ea7fe2e6fb7201
+SHA256: 6aedf3c3cdc80980ab0ee5c0a66d103879147ef6a0ecf4ab3d2e938af4630a9f
 Section: Themes (Lockscreen)
 Description: Simple lockscreen for LockHTML users.
 Author: Noah M (n0mar) <n0mar@icloud.com>
@@ -132,9 +147,9 @@ Architecture: iphoneos-arm
 Maintainer: Noah M <n0mar@icloud.com>
 Filename: ./debs//n0mar.simplepapers_0.8_iphoneos-arm.deb
 Size: 2152932
-MD5sum: 3f83542c1b90d0c928e99c47a06383e6
-SHA1: b12ca5418c749eac91ff4f40a9c7ccd5bc1ec8a7
-SHA256: 372ce60c9845a6567fec0a0d08058ef69e68af007a12e0a0576d4b3357324bf6
+MD5sum: 46b877968eab82a0f9e5ad3e429cfb60
+SHA1: 111d85841e88bd98e76a027ce2a67f08e7ce8071
+SHA256: 80b145f864d147622aec9c5461a21d5cc411ffb04d00e99f556175974f75b993
 Section: Wallpapers
 Description: Simple Wallpapers
 Author: Noah M (n0mar) <n0mar@icloud.com>
